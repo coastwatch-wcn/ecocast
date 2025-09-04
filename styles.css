@@ -803,8 +803,11 @@ button.btn-primary:hover {
 }
 
 .ecocast-column {
-  flex: 1 1 0;
+  flex: 1;
   min-width: 300px; /* ensures stacking on narrow screens */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .ecocast-card {

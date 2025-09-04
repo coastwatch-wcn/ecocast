@@ -10,10 +10,6 @@ format:
 
 
 ::: {.ecocast-columns}
-::: {.ecocast-column .ecocast-card}
-![](images/ecocast_map.png){fig-align="center" width="100%"}
-:::
-
 ::: {.ecocast-column}
 ### Mission and Vision
 EcoCast is a fisheries sustainability tool that helps fishers and managers evaluate how to allocate fishing effort to maintain target fish catch while minimizing bycatch of protected or threatened species.
@@ -45,6 +41,16 @@ Funding has been provided by:
 - NOAA West Coast Regional Office  
 - NOAA Integrated Ecosystem Assessment Program  
 - Stanford Center for Ocean Solutions
+:::
+
+::: {.ecocast-column}
+#### Targeted Species
+![Broadbill Swordfish (*Xiphias gladius*), also known as North Pacific Swordfish, Emperado, A`u, Mekajiki, Shutome. Artwork: Les Hata © Secretariat of the Pacific Community.](images/swordfish.png){fig-align="center" width="80%" style="object-fit:contain; margin-bottom:1rem;"}
+
+#### Bycatch Species
+![The leatherback sea turtle (*Dermochelys coriacea*) is a highly migratory species, swimming over 10,000 miles in a year. Photo copyright: NOAA Fisheries](images/leatherback_sea_turtle.png){fig-align="center" width="80%" style="object-fit:contain; margin-bottom:1rem;"}
+
+![The California sea lion (*Zalophus californianus*) native to the West Coast of North America. Photo copyright: NOAA Fisheries](images/sea_lion.png){fig-align="center" width="80%" style="object-fit:contain; margin-bottom:1rem;"}
 :::
 :::
 
