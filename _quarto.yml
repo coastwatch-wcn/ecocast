@@ -5,7 +5,7 @@ project:
 website:
   title: ""
   navbar:
-    logo: images/ecocast_logo.png
+    logo: images/ecocast_logo_003366.png
     right:
       - href: index.qmd
         text: " "

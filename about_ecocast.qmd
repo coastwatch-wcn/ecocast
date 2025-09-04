@@ -86,40 +86,30 @@ Dynamic ocean management sits at the interface of science and management. It cap
 
 ---
 
-
+::: {.ecocast-card}
 ## Additional Information
 
-<details class="ecocast-buttons">
-<summary><strong>Related Websites</strong></summary>
-<p></p>
+<details class="ecocast-faq">
+    <summary><strong>Related Websites</strong></summary>
+
 - [TurtleWatch](https://www.fisheries.noaa.gov/resource/map/turtlewatch): A product produced by NOAA's Pacific Islands Fisheries Science Center to provides up-to-date information about the thermal habitat of loggerhead sea turtles in the Pacific Ocean north of the Hawaiian Islands.
-
 - [WhaleWatch](https://www.fisheries.noaa.gov/west-coast/marine-mammal-protection/whalewatch): A project coordinated by NOAA Fisheries' West Coast Region to help reduce human impacts on whales.
-
 - [California Integrated Ecosystem Assessment](https://www.integratedecosystemassessment.noaa.gov/regions/california-current-region/index.html): A project with a primary goal of better understanding the California Current ecosystem.
 
 </details>
 
-<p></p>
-
-<details class="ecocast-buttons">
+<details class="ecocast-faq">
 <summary><strong>References</strong></summary>
 
-<small>
-
 - Hazen et al. (2018) A dynamic ocean management tool to reduce bycatch and support sustainable fisheries. Science Advances. 4(5):eaar3001. [doi.org/10.1126/sciadv.aar3001](https://dx.doi.org/10.1126/sciadv.aar3001)
-
 - Briscoe et al. (2018) Characterizing habitat suitability for a central-place forager in a dynamic marine environment. Ecol Evol.. 8:2788–2801. [doi.org/10.1002/ece3.3827.](https://doi.org/10.1002/ece3.3827)
-
 - Scales et al. (2017) Fit to predict? Eco-informatics for predicting the catchability of a pelagic fish in near real time. [Ecological Applications. 0:1-17.](https://www.conservationecologylab.com/uploads/1/9/7/6/19763887/scales_et_al_2017.pdf)
-
 - Lewison et al. (2015) Dynamic Ocean Management: Identifying the Critical Ingredients of Dynamic Approaches to Ocean Resource Management. BioScience, 65:486–498. [doi.org/10.1093/biosci/biv018](https://doi.org/10.1093/biosci/biv018)
-
 - Maxwell et al. (2015) Dynamic ocean management: Defining and conceptualizing real-time management of the ocean. Marine Policy. 58:42-50. [doi.org/10.1016/j.marpol.2015.03.014](https://doi.org/10.1016/j.marpol.2015.03.014)
 
-</small>
-
 </details>
+
+:::
 
 
 ::: {.ecocast-disclaimer}
