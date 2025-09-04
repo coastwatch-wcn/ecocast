@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    logo: images/ecocast_logo.png
+    right:
+      - href: index.qmd
+        text: " "
+      - href: about_ecocast.qmd
+        text: "About EcoCast"
+      - href: ecocast_explorer.qmd
+        text: "EcoCast Explorer"
+      - href: ecocast_map.qmd
+        text: "EcoCast Map"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    include-after-body: footer.html
